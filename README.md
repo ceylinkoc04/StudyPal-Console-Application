@@ -36,11 +36,11 @@ To use this application, you need to have Java installed on your computer. Once 
   - **Set and Check Daily Study Goal**: Set a daily goal for study time and check your progress.
 
 Example output:
--Welcome to StudyPal!
--Please enter your name: 
--ceylin
--Please enter your age: 
--21
+Welcome to StudyPal!
+Please enter your name: 
+ceylin
+Please enter your age: 
+21
 
 --- StudyPal Menu ---
 1. Add Study Session
@@ -49,4 +49,4 @@ Example output:
 4. View All Study Sessions
 5. Set and Check Daily Study Goal
 6. Exit
--Choose an option: 
+Choose an option: 
